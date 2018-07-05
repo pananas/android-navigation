@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bounds_xxl">32dp</dimen>
+    <dimen name="bounds_xl">24dp</dimen>
+    <dimen name="bounds_l">16dp</dimen>
+    <dimen name="bounds_m">8dp</dimen>
+    <dimen name="bounds_s">4dp</dimen>
+
+    <dimen name="layout_internet_connection_change_padding">12dp</dimen>
+</resources>
